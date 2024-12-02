@@ -1,5 +1,8 @@
 ### **Custom CSS Library Documentation: Width Utility Classes**
-
+#### use cdn
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/KRajiH/hcss@main/hcss%40V1.0.0.css">
+```
 Our custom CSS library provides easy-to-use utility classes for managing the width of elements. These classes allow you to set widths in **pixels (px)**, **viewport width (vw)**, and **percentages (%)**.
 
 ---
