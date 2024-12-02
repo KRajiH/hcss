@@ -1,0 +1,10 @@
+/* Border */
+.b-1{border:1px solid;}.b-2{border:2px solid;}.b-3{border:3px solid;}.b-4{border:4px solid;}.b-5{border:5px solid;}.b-6{border:6px solid;}.b-7{border:7px solid;}.b-8{border:8px solid;}.b-9{border:9px solid;}.b-10{border:10px solid;}
+/* Border Radius */
+
+/* in px */
+.br-1{border-radius:1px;}.br-2{border-radius:2px;}.br-3{border-radius:3px;}.br-4{border-radius:4px;}.br-5{border-radius:5px;}.br-6{border-radius:6px;}.br-7{border-radius:7px;}.br-8{border-radius:8px;}.br-9{border-radius:9px;}.br-10{border-radius:10px;}.br-11{border-radius:11px;}.br-12{border-radius:12px;}.br-13{border-radius:13px;}.br-14{border-radius:14px;}.br-15{border-radius:15px;}.br-16{border-radius:16px;}.br-17{border-radius:17px;}.br-18{border-radius:18px;}.br-19{border-radius:19px;}.br-20{border-radius:20px;}.br-21{border-radius:21px;}.br-22{border-radius:22px;}.br-23{border-radius:23px;}.br-24{border-radius:24px;}.br-25{border-radius:25px;}.br-26{border-radius:26px;}.br-27{border-radius:27px;}.br-28{border-radius:28px;}.br-29{border-radius:29px;}.br-30{border-radius:30px;}.br-31{border-radius:31px;}.br-32{border-radius:32px;}.br-33{border-radius:33px;}.br-34{border-radius:34px;}.br-35{border-radius:35px;}.br-36{border-radius:36px;}.br-37{border-radius:37px;}.br-38{border-radius:38px;}.br-39{border-radius:39px;}.br-40{border-radius:40px;}.br-41{border-radius:41px;}.br-42{border-radius:42px;}.br-43{border-radius:43px;}.br-44{border-radius:44px;}.br-45{border-radius:45px;}.br-46{border-radius:46px;}.br-47{border-radius:47px;}.br-48{border-radius:48px;}.br-49{border-radius:49px;}.br-50{border-radius:50px;}
+/* in % */
+.r{
+    border-radius: 50%;
+}
